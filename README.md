@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning java
+- ⚡ Fun fact: I love solving coding challenges with lo-fi music in the background.
+
 <!--
 **ming0511/ming0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
